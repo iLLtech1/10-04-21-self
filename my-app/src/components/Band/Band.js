@@ -1,5 +1,6 @@
 const Band = () => {
   return (
+    
     <div className="modal" tabindex="-1">
       <div className="modal-dialog">
         <div className="modal-content">
@@ -23,7 +24,7 @@ const Band = () => {
 
 
 
-// export default Band
+export default Band
 
 
   
@@ -51,4 +52,3 @@ const Band = () => {
 
 
 
-export default Band;
